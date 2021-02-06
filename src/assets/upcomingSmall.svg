@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="320px" height="80px" viewbox="0 0 320 80" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+    <g id="Group-7" transform="translate(-24 0)">
+        <path d="M4.81552 4.30164L0 5.1246L3.60468 8.3197L2.92744 13L7.18324 10.6733L11.5801 12.7425L10.6051 8.11017L14 4.70807L9.14183 4.17289L6.84375 0L4.81552 4.30164Z" transform="translate(31 41)" id="Fill-3" fill="#114837" fill-rule="evenodd" stroke="none" />
+        <path d="M2.92657 13L3.60468 8.31886L0 5.12544L4.81465 4.30164L6.84288 0L9.14096 4.17289L14 4.70807L10.6042 8.11017L11.5792 12.7425L7.18324 10.6725L2.92657 13Z" transform="translate(55 17)" id="Fill-4" fill="#F6D500" fill-rule="evenodd" stroke="none" />
+        <path d="M0 10.9615L6.26378 7.31867L6.86811 0L12.2058 4.94036L19.2288 3.2641L16.2634 9.95959L20 16.2425L12.8297 15.4399L8.11593 21L6.64936 13.8087L0 10.9615Z" transform="translate(89 0)" id="Fill-5" fill="#80A08D" fill-rule="evenodd" stroke="none" />
+        <path d="M0 10.9615L6.26378 7.31867L6.86811 0L12.2058 4.94036L19.2288 3.2641L16.2634 9.95959L20 16.2425L12.8297 15.4399L8.11593 21L6.64936 13.8087L0 10.9615Z" transform="translate(263 4)" id="Fill-5" fill="#80A08D" fill-rule="evenodd" stroke="none" />
+        <path d="M3.99805 4.44303L0 6.15195L3.71707 8.46081L4.0223 13L7.25268 9.98358L11.4389 11.0802L9.71707 6.90716L12 3.04642L12 3.04554L7.70592 3.48314L4.93045 0L3.99805 4.44303Z" transform="translate(160 0)" id="Fill-6" fill="#F7B8AE" fill-rule="evenodd" stroke="none" />
+    </g>
+    <g id="Group-7" transform="matrix(-0.9998477 -0.017452458 0.017452458 -0.9998477 694.937 80)">
+        <path d="M0 10.9615L6.26378 7.31867L6.86811 0L12.2058 4.94036L19.2288 3.2641L16.2634 9.95959L20 16.2425L12.8297 15.4399L8.11593 21L6.64936 13.8087L0 10.9615Z" transform="matrix(1 -4.76497E-09 4.76497E-09 1 390.99988 25.000061)" id="Fill-5" fill="#C9CFDA" fill-rule="evenodd" stroke="none" />
+    </g>
+</svg>
